@@ -1,4 +1,4 @@
-# python---programs
+# python-programs
 
 voting_eligibility.py
 
